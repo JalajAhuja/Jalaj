@@ -1,1 +1,1 @@
-Repository For task submission Such as Grip and Forage
+Repository For all initial code commits 
